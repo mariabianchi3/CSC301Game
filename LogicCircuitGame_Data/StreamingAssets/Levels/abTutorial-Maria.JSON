@@ -1,6 +1,6 @@
-{"LevelName": "And",
+{"LevelName": "abTutorial",
 "Creator": "Maria",
-"Description": "Bianchi",
+"Description": "Or gate: simple put an or gate and hook up the input and outputs",
 "star1": 1,
 "star2": 1,
 "star3": 1,
@@ -11,8 +11,8 @@
 ],
 "Solution": [
 [["False","False"],["False"]],
-[["True","False"],["False"]],
-[["False","True"],["False"]],
+[["True","False"],["True"]],
+[["False","True"],["True"]],
 [["True","True"],["True"]]
 ]
 }

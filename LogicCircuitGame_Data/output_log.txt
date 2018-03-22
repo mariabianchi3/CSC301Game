@@ -23,7 +23,7 @@ Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\
 Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\C5.dll into Unity Child Domain
 Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\LitJson.dll (this message is harmless)
 Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\LitJson.dll into Unity Child Domain
-- Completed reload, in  0.241 seconds
+- Completed reload, in  0.201 seconds
 Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -31,7 +31,7 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.646413 ms
+UnloadTime: 4.942337 ms
 AlgebraLevel1-Freddy
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -45,10 +45,6 @@ AlgebraLevel3-Team24
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 AlgebraLevel4-Team24
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-And-Maria
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -80,19 +76,15 @@ Lab2Part1-Team24
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-NewLevel-Maria
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 Tutorial-Team24
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.101170 ms
+UnloadTime: 12.061059 ms
 
 Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 819.
-Total: 1.734493 ms (FindLiveObjects: 0.106053 ms CreateObjectMapping: 0.087237 ms MarkObjects: 1.489315 ms  DeleteObjects: 0.050176 ms)
+Total: 1.593088 ms (FindLiveObjects: 0.115746 ms CreateObjectMapping: 0.078114 ms MarkObjects: 1.350190 ms  DeleteObjects: 0.047895 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
 NullReferenceException
@@ -106,10 +98,10 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-UnloadTime: 43.702168 ms
+UnloadTime: 28.748005 ms
 
 Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 542.
-Total: 1.818880 ms (FindLiveObjects: 0.108334 ms CreateObjectMapping: 0.095790 ms MarkObjects: 1.343918 ms  DeleteObjects: 0.267985 ms)
+Total: 1.371857 ms (FindLiveObjects: 0.070702 ms CreateObjectMapping: 0.083816 ms MarkObjects: 1.116416 ms  DeleteObjects: 0.098641 ms)
 
 AlgebraLevel1-Freddy
  
@@ -124,10 +116,6 @@ AlgebraLevel3-Team24
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 AlgebraLevel4-Team24
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-And-Maria
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -159,7 +147,132 @@ Lab2Part1-Team24
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-NewLevel-Maria
+Tutorial-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.353240 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1045.
+Total: 3.122886 ms (FindLiveObjects: 0.164782 ms CreateObjectMapping: 0.095220 ms MarkObjects: 2.784768 ms  DeleteObjects: 0.075834 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.864321 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 2.479151 ms (FindLiveObjects: 0.221800 ms CreateObjectMapping: 0.159080 ms MarkObjects: 2.056646 ms  DeleteObjects: 0.037632 ms)
+
+AlgebraLevel1-Freddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab2Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tutorial-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at EditorManager.setScore (Int32 score) [0x00000] in <filename unknown>:0 
+  at EditorManager.decrementScore () [0x00000] in <filename unknown>:0 
+  at BuiltinModuleController.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 7.625043 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.664262 ms (FindLiveObjects: 0.039342 ms CreateObjectMapping: 0.039342 ms MarkObjects: 0.549085 ms  DeleteObjects: 0.035921 ms)
+
+abTutorial-Maria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel1-Freddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab2Part1-Team24
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -168,10 +281,10 @@ Tutorial-Team24
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.695721 ms
+UnloadTime: 4.902424 ms
 
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1045.
-Total: 1.170583 ms (FindLiveObjects: 0.070702 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.034880 ms  DeleteObjects: 0.031360 ms)
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 2.573801 ms (FindLiveObjects: 0.141975 ms CreateObjectMapping: 0.146536 ms MarkObjects: 2.200902 ms  DeleteObjects: 0.082106 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 3b70 -> priority: 1 
+  Thread -> id: 36d4 -> priority: 1 
