@@ -1,0 +1,177 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\C5.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\C5.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.241 seconds
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Maria\workspace301\CSC301Game\LogicCircuitGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.646413 ms
+AlgebraLevel1-Freddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+And-Maria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab2Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NewLevel-Maria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tutorial-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.101170 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 1.734493 ms (FindLiveObjects: 0.106053 ms CreateObjectMapping: 0.087237 ms MarkObjects: 1.489315 ms  DeleteObjects: 0.050176 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at EditorManager.setScore (Int32 score) [0x00000] in <filename unknown>:0 
+  at EditorManager.decrementScore () [0x00000] in <filename unknown>:0 
+  at BuiltinModuleController.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 43.702168 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 1.818880 ms (FindLiveObjects: 0.108334 ms CreateObjectMapping: 0.095790 ms MarkObjects: 1.343918 ms  DeleteObjects: 0.267985 ms)
+
+AlgebraLevel1-Freddy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AlgebraLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+And-Maria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel3-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BasicLevel4-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab1Part2-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lab2Part1-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NewLevel-Maria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tutorial-Team24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.695721 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1045.
+Total: 1.170583 ms (FindLiveObjects: 0.070702 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.034880 ms  DeleteObjects: 0.031360 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3b70 -> priority: 1 

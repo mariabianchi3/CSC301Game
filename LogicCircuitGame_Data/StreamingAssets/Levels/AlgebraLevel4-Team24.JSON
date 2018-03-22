@@ -1,0 +1,25 @@
+{"LevelName": "AlgebraLevel4",
+"Creator": "Team24",
+"Description": "Create a circuit with behaviour f = x * y + x' * z + y * z
+Difficulty: 5/5
+Hint: Consensus law.",
+"star1": 8,
+"star2": 6,
+"star3": 4,
+"Inputs": [{"Id": 0},
+{"Id": 1},
+{"Id": 2}
+],
+"Outputs": [{"Id": 0}
+],
+"Solution": [
+[["False","False","False"],["False"]],
+[["True","False","False"],["False"]],
+[["False","True","False"],["False"]],
+[["True","True","False"],["True"]],
+[["False","False","True"],["True"]],
+[["True","False","True"],["False"]],
+[["False","True","True"],["True"]],
+[["True","True","True"],["True"]]
+]
+}
